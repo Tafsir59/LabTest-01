@@ -1,0 +1,10 @@
+=== Performing Duties ===
+ID: 1, Name: Dr. Rahman
+Dr. Rahman conducts research and teaches advanced courses.
+
+ID: 2, Name: Mr. Karim
+Mr. Karim manages administrative tasks.
+
+=== Professor Research Info ===
+Research Area: AI
+Publications: 25
